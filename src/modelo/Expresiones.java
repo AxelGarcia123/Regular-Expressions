@@ -9,7 +9,7 @@ public class Expresiones{
 		String cadena = "";
 		int i = 0;
 
-		while(i < 1000) {
+		while(i < 10000) {
 			int num = random.nextInt(3);
 			System.out.println(num);
 			if(num == 0) 
